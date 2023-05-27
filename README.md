@@ -1,5 +1,4 @@
 # tsugae
-🌲ۛ
 
 ![image](https://github.com/2qx/tsugae/assets/57997077/bce8e28e-c32a-45c0-81c6-99cf53f55567)
 
